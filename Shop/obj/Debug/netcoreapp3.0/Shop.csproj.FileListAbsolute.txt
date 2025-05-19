@@ -1,0 +1,8 @@
+C:\Users\agr4c\Downloads\Shop\Shop\Shop\obj\Debug\netcoreapp3.0\Shop.csproj.AssemblyReference.cache
+C:\Users\agr4c\Downloads\Shop\Shop\Shop\obj\Debug\netcoreapp3.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agr4c\Downloads\Shop\Shop\Shop\obj\Debug\netcoreapp3.0\Shop.AssemblyInfoInputs.cache
+C:\Users\agr4c\Downloads\Shop\Shop\Shop\obj\Debug\netcoreapp3.0\Shop.AssemblyInfo.cs
+C:\Users\agr4c\Downloads\Shop\Shop\Shop\obj\Debug\netcoreapp3.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\agr4c\Downloads\Shop\Shop\Shop\obj\Debug\netcoreapp3.0\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\agr4c\Downloads\Shop\Shop\Shop\obj\Debug\netcoreapp3.0\Shop.RazorAssemblyInfo.cache
+C:\Users\agr4c\Downloads\Shop\Shop\Shop\obj\Debug\netcoreapp3.0\Shop.RazorAssemblyInfo.cs
